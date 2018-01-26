@@ -1,4 +1,4 @@
-/* No pude hacer que me dejara ordanado como querian, me fue complicado el manejo 
+/* No pude hacer que me dejara ordenado como querian, me fue complicado el manejo 
 de arrays de objetos. Los separa por atributos pero los repite igual*/
 
 var endorsements = [
